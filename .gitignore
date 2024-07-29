@@ -128,16 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-data/data.json
-query.txt
-score.txt
-data/word-data.json
-data/words.txt
-data/stats.txt
-data/ranking.json
-data/contribute-words.txt
-data/premium-guilds.txt
-data/report-words.txt
-data/official-words.txt
-data/round-played.txt
-data/word-played.txt
